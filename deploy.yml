@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: khushal1999/mb-image:latest
+        image: reyadocker/internetbankingrepo:latest
 ---
 apiVersion: v1
 kind: Service
